@@ -54,3 +54,26 @@ A-B_C_D_E_F_G_H;
 26）数组题: 数字范围在0-n，数组长度也是n，找出每个数的出现次数（不是原题，但是思路类似，数组原地替换的思路）记录-1 为处理过的；
 
 27）一亿个数取前一百，最快取（一面原题）
+
+
+
+##### 2022-05-09
+###### introduction
+###### questions
+- how graph works, neo4j, nebula, hugegraph;
+- graphx details, spark details, core stage, narrow dep, bread dep; 
+- spark optimization use cases; for examples【didn't use deep optimaztion】
+- spark yarn schedular, what 's details. didn't have many knowledge;
+- why use kafka, use cases; 
+- why use flinks; details, didn't have many knowledge;
+- java high concurrency，locks，latchdown，semphore；did't ask two many details;
+- raft vs paxos; how raft select master;
+##### algo
+finaly alogrithom, find the longest path of sum of target in a binary tree;
+##### question from me
+talking about how deep we need to hanlde the open source techs. 
+this team is all about big data,  need to know source code of spark, flink, hadoop ,k8s; 
+i think i may not meet the requirement of their bars, considering i ask for a architech position;
+as i didn't hanle complex scenaro , huge amount data and thousands of node cluster;
+
+how to catch up that bar , it is a questions;
