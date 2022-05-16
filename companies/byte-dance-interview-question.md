@@ -77,3 +77,14 @@ i think i may not meet the requirement of their bars, considering i ask for a ar
 as i didn't hanle complex scenaro , huge amount data and thousands of node cluster;
 
 how to catch up that bar , it is a questions;
+
+#### round 2
+- graph computing
+- graph data to spark
+- kafka，how guarantee sequence message； not answer well; 
+- redis-data-structure, i answer skip map; zlist; ...., not good question;
+- how to implement hashmap, array+linklist, red-black tree, segment lock;
+- storage type, i mean log structure tree, cassandra, rocksdb, when flush to disk, how to guaraattee the writing in the same time;
+- docker, how to isolation, linux cgroups, and what a scheduler alogrithm
+- alogrithm, sort k linklist; i using priorityqueue; 
+- it is not a good interveiw, by asking do you know A,B,C,D.....
