@@ -57,7 +57,6 @@ A-B_C_D_E_F_G_H;
 
 
 
-##### 2022-05-09
 ###### introduction
 ###### questions
 - how graph works, neo4j, nebula, hugegraph;
@@ -88,3 +87,10 @@ how to catch up that bar , it is a questions;
 - docker, how to isolation, linux cgroups, and what a scheduler alogrithm
 - alogrithm, sort k linklist; i using priorityqueue; 
 - it is not a good interveiw, by asking do you know A,B,C,D.....
+
+#### round3
+- graph two-hop optimization
+- graph envet-time optimization; mutiple thread problems; no-high throughput
+- graph system;business;  update two heavy, we define event-time;
+- jvm why makr copy and mark compact, what is advantage, why used mark compact in old space; why copy in eden space;
+- alogrith; https://leetcode.cn/problems/coin-change/solution/322-ling-qian-dui-huan-by-leetcode-solution/
