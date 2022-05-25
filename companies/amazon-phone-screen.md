@@ -69,3 +69,13 @@ Also, Amazon avoids brain teasers (e.g., "How many windows are in Manhattan?") a
 
 phone interview question:
 https://www.geeksforgeeks.org/how-to-prepare-for-amazon-software-development-engineering-interview/
+
+
+
+interview question
+- deep insight of you work
+- do correct decision when has no enough data
+coding
+- n sort iterator, merge into a glbal iterator
+- give array of matrix, symbols ,searching a circle with the same element in a circle, like all 'a', all 'b'; 
+
