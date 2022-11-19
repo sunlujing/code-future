@@ -30,3 +30,28 @@ For the tokens which published on other chain, we can label the whale address on
 
 I think labeling the whale address is just the begining of analyzing market. At most of the time, we have no idea to guess the intension of whale's coin movement.
 We need more accurate label to tell us why they do that.
+
+#### Label of Fund
+Fund is Public entity that invests and manages money in crypto.
+In the traditional finance world, Fund is always regarded as smart money, and has advantage of inside information.
+This is also true in crypto world, so it is signicant for us to label the Fund address and watch their tradings.
+
+Unlikely, there are few address can be clearly linked to the Fund entity, it leave to us to mine the relationship between crypto world and real world.
+Below are some ways we propose which may be used to link the relationship.
+- first N address to receive large amount of ERC20 tokens. In early phase, fund always participate the private equity
+- crosss check the project invest partner against the address,and label the address with specific fund name if possible
+- circle the group of these kind potential fund address as fund friendship and examine the possibility.
+- crawl the linkage information from public channel, like search engine, social media and forum,etc.
+
+After labeling the fund, we can do a lot of intesting anaylis including:
+- sort their scale and activation.
+- find out who is really smart by analying their history trading
+- group their performance based on different crypto market or topic?
+- what are there new investing direction?
+- backtest and use the singal of there behavior?
+
+
+
+
+
+
